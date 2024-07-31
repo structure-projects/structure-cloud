@@ -5,20 +5,19 @@
     <parent>
         <groupId>cn.structured</groupId>
         <artifactId>structure-dependencies</artifactId>
-        <version>1.2.1.RELEASE</version>
+        <version>1.2.2</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>structure-ribbon-starter</artifactId>
     <packaging>jar</packaging>
-    <version>1.2.1.RELEASE</version>
+    <version>1.2.2</version>
     <!---->
     <description>ribbon 在2.2.9.RELEASE 之后被spring-cloud 移除高版本则不可以用</description>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <lombok.version>1.18.26</lombok.version>
         <ribbon.version>2.2.9.RELEASE</ribbon.version>
     </properties>
 
