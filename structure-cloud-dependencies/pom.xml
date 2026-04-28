@@ -16,6 +16,8 @@
     <version>${revision}</version>
     <packaging>pom</packaging>
 
+    <description>这个项目主要用于管理cloud 生态的依赖</description>
+
     <properties>
         <revision>1.0.3-SNAPSHOT</revision>
         <structure.version>1.2.10</structure.version>
